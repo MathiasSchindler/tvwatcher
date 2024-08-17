@@ -4,6 +4,8 @@
 
 Dieses Projekt kombiniert Spracherkennung, maschinelle Übersetzung und Textzusammenfassung, um Nachrichtensendungen in Echtzeit zu transkribieren, zu übersetzen und zusammenzufassen. Es nutzt whisper.cpp für die Spracherkennung, madlad400 für die Übersetzung und Llama3.1 für die Zusammenfassung.
 
+Das Projekt wurde mit Hilfe von LLM-Werkzugen wie claude.ai erstellt.
+
 ## Funktionen
 
 - Echtzeit-Transkription von Sprache aus einem Videostream
@@ -47,3 +49,4 @@ Dieses Projekt wäre nicht möglich ohne die folgenden Projekte und -Modelle:
 - [Ollama](https://github.com/ollama/ollama) für die Bereitstellung und Nutzung von Llama
 
 Ich danke allen Entwicklern und Organisationen, die diese Tools und Modelle der Öffentlichkeit zur Verfügung stellen.
+
